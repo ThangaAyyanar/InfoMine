@@ -31,5 +31,6 @@
 - [[https://www.buildyourownlisp.com/contents][Build Your Own Lisp (In C Programming language)]]
 - [[https://jeroenjanssens.com/dsatcl/][Data Science at the Command Line, 2e]]
 - [[https://logic4free.informatik.uni-kiel.de/llocs/Main_Page][Learning Logic for Computer Science]]
+- [[https://refactoring.guru/design-patterns][Refactoring guru - Design Pattern]]
+- [[https://refactoring.guru/refactoring][Refactoring guru - Refactoring]]
 - [[https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/][A Blog Post With Every HTML Element]]
-
