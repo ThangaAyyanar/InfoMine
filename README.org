@@ -1,0 +1,35 @@
+* InfoMine
+
+** Meta Index
+- [[https://freetamilebooks.com/][Free Tamil ebooks]]
+- [[https://github.com/EbookFoundation/free-programming-books][Free Programming Ebooks (github)]]
+- [[https://github.com/codecrafters-io/build-your-own-x][Build your own X]]
+  - This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
+
+** English Books
+- [[https://github.com/opsdisk/the_cyber_plumbers_handbook][The Cyber Plumber's Handbook]] 
+  - You will learn about SSH Tunneling, Socks proxy, Proxychains and more
+- [[https://www.gnu.org/software/gnu-c-manual/][The GNU C Reference Manual]]
+- [[https://beej.us/guide/bgnet/][Beej's Guide to Network Programming]]
+- [[https://beej.us/guide/bgc/][Beej's Guide to C—Tutorial]]
+- [[https://beej.us/guide/bgclr/][Beej's Guide to C—Library Reference]]
+- [[https://beej.us/guide/bgnet0/][Beej's Guide to Network Concepts]]
+- [[https://beej.us/guide/bgipc/][Beej's Guide to Unix Interprocess Communication]]
+- [[https://beej.us/guide/bgpython/][Beej's Guide to Python Programming]] (WIP)
+- [[https://beej.us/guide/bggdb/][Beej's Guide to the GNU Debugger (GDB)]]
+- [[https://linux.die.net/Intro-Linux/][Introduction to Linux - https://linux.die.net]]
+- [[https://linux.die.net/][All linux documentation in this site - https://linux.die.net]]
+- [[https://en.cppreference.com/w/][CPP Reference]]
+- [[https://dev.java/learn/][Dev.java - Java Tutorials]]
+- [[https://craftinginterpreters.com/contents.html][Crafting Interpreters - Robert Nystrom]]
+- [[https://hypermedia.systems/book/contents/][HYPERMEDIA SYSTEMS]]
+- [[https://web.mit.edu/6.001/6.037/sicp.pdf][Structure and Interpretation of Computer Programs, 2nd ed - pdf]]
+  - [[https://www.youtube.com/playlist?list=PLE18841CABEA24090][Youtube - MIT 6.001 Structure and Interpretation, 1986]]
+  - [[https://sicp.sourceacademy.org/][SICP in Javascript]]
+- [[https://natureofcode.com/book/][Nature of code - Daniel Shiffman]]
+- [[https://automatetheboringstuff.com/][Automate the Boring Stuff with Python]]
+- [[https://www.buildyourownlisp.com/contents][Build Your Own Lisp (In C Programming language)]]
+- [[https://jeroenjanssens.com/dsatcl/][Data Science at the Command Line, 2e]]
+- [[https://logic4free.informatik.uni-kiel.de/llocs/Main_Page][Learning Logic for Computer Science]]
+- [[https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/][A Blog Post With Every HTML Element]]
+
