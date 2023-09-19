@@ -34,6 +34,8 @@
 - [[https://refactoring.guru/design-patterns][Refactoring guru - Design Pattern]]
 - [[https://refactoring.guru/refactoring][Refactoring guru - Refactoring]]
 - [[https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/][A Blog Post With Every HTML Element]]
+- [[https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/][Category Theory for programmers, The preface]]
+_ [[https://www.scheme.com/tspl4/][The scheme programming language 4e - R.Kent Dybvig]]
 
 ** Playlist
 - [[https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI][MIT Deep learning course]]
